@@ -2,6 +2,11 @@
     "name": "vs2017-light-theme",
     "displayName": "VS2017 Light Theme",
     "description": "Brings the Visual Studio 2017 light theme to Visual Studio Code!",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/FireController1847/vscode-vs2017-light-theme.git"
+    },
+    "icon": "icon.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.32.0"
