@@ -1,0 +1,21 @@
+{
+    "name": "vs2017-light-theme",
+    "displayName": "VS2017 Light Theme",
+    "description": "Brings the Visual Studio 2017 light theme to Visual Studio Code!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.32.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Visual Studio Light Theme (2017)",
+                "uiTheme": "vs",
+                "path": "./themes/Visual Studio Light Theme (2017)-color-theme.json"
+            }
+        ]
+    }
+}
