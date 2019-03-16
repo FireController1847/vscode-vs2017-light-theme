@@ -1,0 +1,1 @@
+# vscode-vs2017-light-theme
