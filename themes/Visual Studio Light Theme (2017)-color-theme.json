@@ -19,7 +19,7 @@
 		"editorLineNumber.foreground": "#2b91af",
 		"editorLineNumber.activeForeground": "#2b91af",
 		"editorCursor.foreground": "#7a7a7c",
-		"editorBracketMatch.background": "#E2E6D6",
+		"editorBracketMatch.background": "#e2e6d6",
 		"editorBracketMatch.border": "#00000000",
 		"editorGroupHeader.noTabsBackground": "#eeeef2",
 		"editorGroupHeader.tabsBackground": "#eeeef2",
@@ -41,7 +41,7 @@
 		"menu.foreground": "#000000",
 		"menu.background": "#F6F6F6",
 		"menu.selectionForeground": "#000000",
-		"menu.selectionBackground": "#C9DEF5",
+		"menu.selectionBackground": "#c9def5",
 
 		// Scrollbar
 		"scrollbarSlider.background": "#c2c3c9",
@@ -73,6 +73,13 @@
 		"tab.unfocusedActiveForeground": "#bee5ff",
 		"tab.unfocusedInactiveForeground": "#000000",
 		"tab.unfocusedHoverBackground": "#1c97ea",
+
+		// Terminal
+		"terminal.background": "#ffffff",
+		"terminal.border": "#cccedb",
+		"terminal.foreground": "#0c0c0c",
+		"terminalCursor.background": "#ffffff",
+		"terminalCursor.foreground": "#0c0c0c",
 
 		// Titlebar
 		"titleBar.activeForeground": "#000000",
