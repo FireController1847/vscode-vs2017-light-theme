@@ -8,7 +8,7 @@
         "url": "https://github.com/FireController1847/vscode-vs2017-light-theme.git"
     },
     "icon": "icon.png",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.32.0"
     },
